@@ -16,3 +16,5 @@ The main aim of implementing in such a way is that a genuine user who comes to b
 stop early can now get to sit as his/her seat is already booked, it minimally matters how
 much ever he/she comes late, gets to sit on the condition that the person has to book as
 early as possible.
+
+Project Screenshots can be viewed from screenshots folder
